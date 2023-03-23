@@ -1,6 +1,6 @@
 
 <img src= "gif.gif" width= "200px" align= "right">
-<h1># 🐱 Seja bem vindo e bem vindes ao meu GitHub! 🐱</h1>
+<h1># 🐱 Seja bem vindos ao meu GitHub! 🐱</h1>
 
 
 <div id="badges">
