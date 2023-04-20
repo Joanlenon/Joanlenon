@@ -31,3 +31,43 @@ Estou trilhando meu caminho , adiquirindo novas conhecimentos na area da program
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 </div>
+
+<link rel="stylesheet" href="styleSS.css">
+<div class="skills">
+            <div class="skills-bar">
+                <div class="bar">
+                    <div class="info">
+                        <span>HTML</span>
+                    </div>
+                    <div class="progress-line"><span class="html"></span></div>
+                    <div class="bar">
+                        <div class="info">
+                            <span>CSS</span>
+                        </div>
+                        <div class="progress-line"><span class="css"></span></div>
+                        <div class="bar">
+                            <div class="info">
+                                <span>BOOTSTRAP</span>
+                            </div>
+                            <div class="progress-line"><span class="bootstrap"></span></div>
+                            <div class="bar">
+                                <div class          ="info">
+                                    <span>JAVASCRIPT</span>
+                                </div>
+                                <div class="progress-line">
+                                    <span class="javascript"></span>
+                                </div>
+                                <div class="bar">
+                                    <div class="info">
+                                        <span>C PROGRAMMING</span>
+                                    </div>
+                                    <div class="progress-line"><span class="c"></span></div>
+                                </div>
+                              </div>
+                            </div>
+                        </div>
+                     </div>
+                 </div>
+               </div>
+            </div>
+          </div>
