@@ -63,6 +63,7 @@ Estou trilhando meu caminho , adquirindo novas conhecimentos na área da program
                                     </div>
                                     <div class="progress-line"><span class="c"></span></div>
                                 </div>
+                              <br>
 <details>
 <summary>Um pouco sobre mim</summary>                       
 <p>
