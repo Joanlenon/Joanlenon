@@ -86,7 +86,7 @@ Caminhar ao Ar Livre e passar um tempo com a familia.
 </details>
 
 <details>
-<summary>🇺🇸 A little about me</summary>
+<summary>US A little about me</summary>
 <p>
   
 I have always been very connected to technology since my childhood.. I developed little game projects and I always dedicated myself a lot to be someone who really
@@ -102,6 +102,29 @@ As a Hobbie, I love spending time in Music, learning different instruments and s
 Walking outdoors and spending time with my family.
 
 Call me to say hello!!
+
+📫 joanlenon@gmail.com
+📜 https://www.twitter.com/@joanlenon
+</p>
+</details>
+
+<details>
+<summary>États-Unis Un peu sur moi</summary>
+<p>
+  
+J'ai toujours été très connecté à la technologie depuis mon enfance. J'ai développé des petits projets de jeux et je me suis toujours beaucoup investi pour être quelqu'un qui vraiment
+faire une différence dans la région, c'est-à-dire Légendaire !
+
+Je m'adapte facilement et travaille très bien en équipe ! L'une des choses que j'aime le plus est d'aider les autres et d'apprendre aussi.
+
+J'apprécie grandement la transparence, la sincérité et l'honnêteté, que ce soit pour assumer des responsabilités ou des problèmes, ou pour assumer des limites ou des difficultés.
+
+Je suis sociable et très sociable, je me fais facilement des amis..
+
+En tant que passe-temps, j'aime passer du temps dans la musique, apprendre différents instruments et chanter. Lisez (des livres d'auto-assistance comme Think and Grow Rich);
+Marcher dehors et passer du temps avec ma famille.
+
+Appelez-moi pour dire bonjour !!
 
 📫 joanlenon@gmail.com
 📜 https://www.twitter.com/@joanlenon
