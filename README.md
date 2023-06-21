@@ -10,7 +10,7 @@
  
 </div>
 
-Estou trilhando meu caminho , adiquirindo novas conhecimentos na area da programação.
+Estou trilhando meu caminho , adquirindo novas conhecimentos na área da programação.
 
  👩‍💻 Aprendendo sobre HTML, CSS, JavaScrip, Banco de dados e C#.
 
