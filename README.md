@@ -108,8 +108,8 @@ Call me to say hello!!
 </p>
 </details>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronaldoskibinski&langs_count=8&layout=compact&theme=vue&locale=pt-Br)](https://github.com/joanlenon/github-readme-stats)
-[![RonaldoSkibinski GitHub stats](https://github-readme-stats.vercel.app/api?username=joanlenoni&include_all_commits=true&count_private=true&theme=vue&show_icons=true&locale=pt-Br)](https://github.com/joanlenon/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronaldoskibinski&langs_count=8&layout=compact&theme=vue&locale=pt-Br)](https://github.com/Joanlenon/github-readme-stats)
+[![Joanlenon GitHub stats](https://github-readme-stats.vercel.app/api?username=Joanlenon&include_all_commits=true&count_private=true&theme=vue&show_icons=true&locale=pt-Br)](https://github.com/Joanlenon/github-readme-stats)
 
 ## 🧰 Linguagens e Ferramentas | Languages and Tools:
 <p align="center">
