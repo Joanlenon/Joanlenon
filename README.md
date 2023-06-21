@@ -63,7 +63,8 @@ Estou trilhando meu caminho , adquirindo novas conhecimentos na área da program
                                     </div>
                                     <div class="progress-line"><span class="c"></span></div>
                                 </div>
-                       
+<details>
+<summary>Um pouco sobre mim</summary>                       
 <p>
   
 Sempre fui muito ligado com tecnologia, desde a minha infância.. Desenvolvia projetinhos de Jogos e sempre me dediquei muito para ser alguém que realmente
