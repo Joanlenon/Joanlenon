@@ -81,7 +81,7 @@ Caminhar ao Ar Livre e passar um tempo com a familia.
 
 
 📫 joanlenon@gmail.com
-📜 https://www.twitter.com/@joanbarbosa
+📜 https://www.twitter.com/@joanlenon
 </p>
 </details>
 
