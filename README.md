@@ -64,7 +64,8 @@ Estou trilhando meu caminho , adquirindo novas conhecimentos na área da program
                                     <div class="progress-line"><span class="c"></span></div>
                                 </div>
                               [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/joanlenon)](https://github.com/joanlenon)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joan-lenon-barbosa-532058185/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3Bw7MjB3WeTTyP62Ka8k8Ezg%3D%3D)]
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joan-lenon-barbosa-532058185/)]([https://www.linkedin.com/in/ronaldo-skibinski-982580150/](https://www.linkedin.com/in/joan-lenon-barbosa-532058185/))
+![](https://visitor-badge.laobi.icu/badge?page_id=joanlenon.joanlenon)
 <summary>🇧🇷 Um pouco sobre mim</summary>
 <p>
   
