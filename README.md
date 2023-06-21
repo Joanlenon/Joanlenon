@@ -111,7 +111,7 @@ Call me to say hello!!
 </details>
 
 <details>
-<summary>États-Unis Un peu sur moi</summary>
+<summary>France Un peu sur moi</summary>
 <p>
   
 J'ai toujours été très connecté à la technologie depuis mon enfance. J'ai développé des petits projets de jeux et je me suis toujours beaucoup investi pour être quelqu'un qui vraiment
