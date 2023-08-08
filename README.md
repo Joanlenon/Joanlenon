@@ -157,4 +157,8 @@ Appelez-moi pour dire bonjour !!
 
 ## 🏅 Certificações | Certifications:
 ![scrum-foundation-professional-certificate-sfpc 1 (3)](https://user-images.githubusercontent.com/23247714/232800572-b110cbe6-a784-4b0f-9f51-16c7552069fd.png)
+ <p align="center"> 
+
+  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+ </p>
 
